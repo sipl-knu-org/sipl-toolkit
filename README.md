@@ -1,6 +1,6 @@
 # SIPL Language Toolkit — Курсовий проєкт з дисципліни «Теорія програмування»
 
-[![SIPL Toolkit CI](https://github.com/USERNAME/sipl-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/L1ght1234/sipl-toolkit/actions/workflows/ci.yml)
+[![SIPL Toolkit CI](https://github.com/USERNAME/sipl-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/sipl-knu-org/sipl-toolkit/actions/workflows/ci.yml)
 
 Проєкт являє собою модульний набір інструментів (**Language Toolkit**) для модельної імперативної мови програмування **SIPL** (*Simple Imperative Programming Language* / *Structured Imperative Programming Language*), яка використовується в курсі «Теорія програмування» для формалізації синтаксису, композиційно-номінативної семантики та верифікації програм.
 
